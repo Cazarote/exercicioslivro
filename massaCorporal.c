@@ -17,8 +17,7 @@
  * 							       	   *
  *Calculadora de Índice de Massa Corporal.		 	   * 
  *******************************************************************
- */
-
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
